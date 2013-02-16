@@ -15,9 +15,15 @@ License
 -------
 GPL v3
 
+Dependencies
+-------
+  - Python 2.6
+  - [Python for Windows extensions] [pywin32]
+  - [pyHook] [pyhook]
+
 Credits
 -------
-This program is based on the [PyKeyLogger project] [pykeylogger].
+This program contains code from the [PyKeyLogger project] [pykeylogger].
 
 TODO
 -------
@@ -26,4 +32,6 @@ TODO
   - Keep language alert sound files in configuration
   - Support Linux (X11)
 
+  [pywin32]: http://sourceforge.net/projects/pywin32
+  [pyhook]: http://sourceforge.net/projects/pyhook/
   [pykeylogger]: http://pykeylogger.sourceforge.net  
